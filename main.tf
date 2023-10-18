@@ -1,6 +1,6 @@
 variable "var1" {
     type = list
-    default = ["testresgrp1" , "testresgrp2" , "rgrp3"]
+    default = ["testresgrp2" , "testresgrp3" , "rgrp3"]
 }
 
 
